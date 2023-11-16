@@ -1,0 +1,21 @@
+input{
+
+    padding: 10px;
+    border-radius: 15px;
+}
+
+button{
+  padding: 10px 10px;
+  background-color: darkgreen;
+color: white;
+border-radius: 15px;
+cursor: pointer;
+}
+
+#displayedText{
+
+    background-color: aliceblue;
+    color:coral ;
+    font-size: 3em;
+    font-family: cursive;
+}
